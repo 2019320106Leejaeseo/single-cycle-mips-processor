@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at Register.v(40): always construct contains both blocking and non-blocking assignments File: D:/FPGA/alu/Register.v Line: 40
+Warning (10268): Verilog HDL information at MIPS.v(67): always construct contains both blocking and non-blocking assignments File: D:/FPGA/alu/MIPS.v Line: 67
+Warning (10268): Verilog HDL information at Data_mem.v(90): always construct contains both blocking and non-blocking assignments File: D:/FPGA/alu/Data_mem.v Line: 90
